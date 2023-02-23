@@ -1,7 +1,7 @@
 # Shortest-Path-Problem-Artificial-Intelligence-
 
 # OUTPUT:
-#________
+# ________
 ![image](https://user-images.githubusercontent.com/92660593/220958114-2dc6e780-bcc0-4eed-b5d9-03a41cc11d9f.png)
 
 # Explanation of the code:
